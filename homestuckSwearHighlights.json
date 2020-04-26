@@ -1,11 +1,11 @@
-"GeneralSwears":[
+{"GeneralSwears":[
 	"fuck",
 	"shit",
 	"bitch",
 	"cunt",
 	"ass",
 	"whore",
-  "retard"
+	"retard"
 ]
 
 "PossibleSwears":[
@@ -19,4 +19,5 @@
 
 "CharacterSwears":{
 	
+}
 }
